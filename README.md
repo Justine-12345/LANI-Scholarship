@@ -1,6 +1,6 @@
 # LANI Scholarship Online Application with Notification
 
-> Complete, built with  Laravel, JavaScript, CSS, HTML, and MySQL
+>  Built with  Laravel, JavaScript, CSS, HTML, and MySQL
 
 Welcome to the Lifeline Assistance for Neighbors In-need (LANI) Scholarship Online Application with Notification project. This system streamlines the application process for new and renewal applicants by providing a convenient and paperless online platform.
 
