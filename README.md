@@ -16,6 +16,6 @@ Renewal applicants can conveniently update and renew their scholarship applicati
 The notification feature keeps applicants informed throughout the application process. Receive real-time updates on application status, document submissions, and any other important information via email notifications.
 
 🌐 **Modern Web Technologies:**
-Built with Laravel, JavaScript, CSS, and HTML, this application offers a modern and responsive user interface. Expect smooth interactions, fast loading times, and a user-friendly experience.
+Built with Laravel, JavaScript, CSS, HTML, and MySQL, this application offers a modern and responsive user interface. Expect smooth interactions, fast loading times, and a user-friendly experience.
 
 LANI Scholarship Online Application with Notification aims to provide a seamless and efficient way for applicants to access scholarships and for administrators to manage applications.
